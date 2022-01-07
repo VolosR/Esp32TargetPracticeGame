@@ -1,5 +1,5 @@
 #include <TFT_eSPI.h> 
-#include "dog.h"
+
 TFT_eSPI    tft = TFT_eSPI(); 
 TFT_eSprite img = TFT_eSprite(&tft);
 
